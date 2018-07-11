@@ -18,5 +18,5 @@
     "url": "git@github.com:mobikeFE/fis3-deploy-qcloudv2.git"
   },
   "readme": "Use the v2 cos-nodejs-sdk-v5 sdk",
-  "version": "0.2.0"
+  "version": "0.3.0"
 }
